@@ -123,3 +123,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Don't upload the key to github
+config/key.key
