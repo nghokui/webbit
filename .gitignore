@@ -126,3 +126,4 @@ dmypy.json
 
 # Don't upload the key to github
 config/key.key
+config/user.json
